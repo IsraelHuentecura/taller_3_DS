@@ -1,5 +1,6 @@
 
-# Objetivos del Repositorio
+# Repositorio Taller de ciencia de datos 3
+## Objetivos del Repositorio
 ## El objetivo principal de este repositorio es facilitar la entrega, revisión y seguimiento de las tareas del Taller de Ciencia de Datos 3. Algunos de los objetivos específicos son:
 
 - [x] Proporcionar un espacio centralizado para almacenar las tareas y sus archivos relacionados.
