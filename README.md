@@ -11,4 +11,4 @@
 #### Tarea 2: Análisis de datos con Pandas, una biblioteca poderosa para estructuras de datos y manipulación de datos.
 #### Tarea 3: Visualización de datos utilizando Matplotlib, una biblioteca de trazado gráfico en Python.
 #### Tarea 4: Exploración de datos avanzada con Seaborn, una biblioteca para visualización estadística.
-#### Tarea 5: Creación de informes y documentos técnicos utilizando LaTeX.
+#### Tarea 5: Creación de CV en LaTeX.
