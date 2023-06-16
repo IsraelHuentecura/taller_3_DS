@@ -13,3 +13,9 @@
 #### Tarea 3: Visualización de datos utilizando Matplotlib, una biblioteca de trazado gráfico en Python.
 #### Tarea 4: Exploración de datos avanzada con Seaborn, una biblioteca para visualización estadística.
 #### Tarea 5: Creación de CV en LaTeX.
+
+### Este repositorio cuenta con:
+- [X] Archivo Gitignore enfocado en python
+- [X] Archivo README.md
+- [X] Archivo requirements.txt para instalar todas las despendencias necesarias para correr el repositorio
+- [X]  Carpeta Tarea donde se encuentra el resultado de cada tarea  
